@@ -57,7 +57,7 @@ Top-performing sub-categories by sales and profit.
 
 Sub-categories with the lowest performance metrics.
 
-![Bottom](./Bottom.png)
+![[Bottom](./Bottom.png)](https://github.com/Santhosh18sk/Task-2/blob/main/Images/Bottom.png)
 
 ---
 
