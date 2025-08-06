@@ -8,7 +8,8 @@ An end-to-end sales data analysis and dashboard project based on Walmart's globa
 
 An all-in-one dashboard showing KPIs, category insights, segment shares, and geographical trends.
 
-![Dashboard](./Dashboard.png)
+![Dashboard](Dashboard.png)
+
 
 ---
 
