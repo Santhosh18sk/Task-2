@@ -49,7 +49,7 @@ Shows profit distribution across major product categories.
 
 Top-performing sub-categories by sales and profit.
 
-!https://github.com/Santhosh18sk/Task-2/blob/main/Images/Top.png
+![https://github.com/Santhosh18sk/Task-2/blob/main/Images/Top.png](https://github.com/Santhosh18sk/Task-2/blob/main/Images/Top.png)
 
 
 ---
