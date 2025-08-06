@@ -22,7 +22,7 @@ Tracked metrics:
 - Number of Orders
 - Profit Margin
 
-![[Sales vs Profit](./Sales_vs_Profit.png)](https://github.com/Santhosh18sk/Task-2/blob/main/Images/Sales_vs_Profit.png)
+!https://github.com/Santhosh18sk/Task-2/blob/main/Images/KPI.png
 
 ---
 
