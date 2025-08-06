@@ -8,7 +8,7 @@ An end-to-end sales data analysis and dashboard project based on Walmart's globa
 
 An all-in-one dashboard showing KPIs, category insights, segment shares, and geographical trends.
 
-![Dashboard](Dashboard.png)
+![[Dashboard](Dashboard.png)](https://github.com/Santhosh18sk/Task-2/blob/main/Images/Dashboard.png)  
 
 
 ---
@@ -22,7 +22,7 @@ Tracked metrics:
 - Number of Orders
 - Profit Margin
 
-![Sales vs Profit](./Sales_vs_Profit.png)
+![[Sales vs Profit](./Sales_vs_Profit.png)](https://github.com/Santhosh18sk/Task-2/blob/main/Images/Sales_vs_Profit.png)
 
 ---
 
@@ -33,7 +33,7 @@ Visualizes sales contributions from each segment:
 - Corporate
 - Home Office
 
-![Segment](./Segment.png)
+![[Segment](./Segment.png)](https://github.com/Santhosh18sk/Task-2/blob/main/Images/Segment.png)
 
 ---
 
@@ -41,7 +41,7 @@ Visualizes sales contributions from each segment:
 
 Shows profit distribution across major product categories.
 
-![Category](./Category.png)
+![[Category](./Category.png)](https://github.com/Santhosh18sk/Task-2/blob/main/Images/Category.png)
 
 ---
 
@@ -49,7 +49,8 @@ Shows profit distribution across major product categories.
 
 Top-performing sub-categories by sales and profit.
 
-![Top](./Top.png)
+!https://github.com/Santhosh18sk/Task-2/blob/main/Images/Top.png
+
 
 ---
 
@@ -65,7 +66,7 @@ Sub-categories with the lowest performance metrics.
 
 Analyzes sales distribution across countries and regions.
 
-![World](./World.png)
+![[World](./World.png)](https://github.com/Santhosh18sk/Task-2/blob/main/Images/World.png)
 
 ---
 
